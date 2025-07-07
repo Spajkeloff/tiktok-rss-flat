@@ -63,6 +63,7 @@ Logo was created using the TikTok and RSS [Font Awesome](https://fontawesome.com
 
 Copyright Conor O'Neill, 2021-2024 (conor@conoroneill.com)
 .
+.
 Trigger workflow
 
 License Apache 2.0
