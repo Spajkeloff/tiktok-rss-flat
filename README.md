@@ -59,7 +59,8 @@ git push origin main
 ## Acknowledgements
 This uses an unoffical [TikTokPy library](https://github.com/davidteather/TikTok-Api) to extract information about user videos from TikTok as JSON and generate RSS feeds for each user you are interested in.
 
-Logo was created using the TikTok and RSS [Font Awesome](https://fontawesome.com/license/free) icons via CC BY 4.0 License
+Logo was created using the TikTok and RSS [Font Awesome](https://fontawesome.com/license/free) icons via CC BY 4.0 License__
+Trigger workflow
 
 Copyright Conor O'Neill, 2021-2024 (conor@conoroneill.com)
 
