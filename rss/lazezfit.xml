@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>lazezfit TikTok</title>
+    <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/lazezfit.xml</link>
+    <description>OK Boomer, all the latest TikToks from lazezfit</description>
+    <atom:link href="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/lazezfit.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/tiktok-rss.png</url>
+      <title>lazezfit TikTok</title>
+      <link>https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/rss/lazezfit.xml</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Jul 2025 15:05:00 +0000</lastBuildDate>
+    <item>
+      <title>90% of my clients tell me the same story. 'I was fine at 25. Crushed it at 30. Now I'm 35 and can't see my belt.' 10 years of 10-hour days. The math is simple. Your body keeps score. The promotion came. The gut came with it.</title>
+      <link>https://tiktok.com/@lazezfit/video/7523222405519723794</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/lazezfit/screenshot_o429oBIfpADNgaAdE1BCCrSnvUFlVZaEAAHNfA~tplv-tiktokx-origin.image.jpg" / &gt; 90% of my clients tell me the same story. 'I was fine at 25. Crushed it at 30. Now I'm 35 and can't see my belt.' 10 years of 10-hour days. The math is simple. Your body keeps score. The promotion came. The gut came with it.</description>
+      <guid isPermaLink="false">https://tiktok.com/@lazezfit/video/7523222405519723794</guid>
+      <pubDate>Fri, 04 Jul 2025 13:45:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>You need to take care of your calorie intake rather than meal timing. Your body processes every calorie, whether consumed at 7am or 7pm. What matters: → Total daily intake → Protein targets → Consistency Focus on the basics. They work.</title>
+      <link>https://tiktok.com/@lazezfit/video/7523232895079648520</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/lazezfit/screenshot_oYIrIoQAeIFbwsbnDDEtvzFBiAAEeAf6E4EAyi~tplv-tiktokx-origin.image.jpg" / &gt; You need to take care of your calorie intake rather than meal timing. Your body processes every calorie, whether consumed at 7am or 7pm. What matters: → Total daily intake → Protein targets → Consistency Focus on the basics. They work.</description>
+      <guid isPermaLink="false">https://tiktok.com/@lazezfit/video/7523232895079648520</guid>
+      <pubDate>Fri, 04 Jul 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your metabolism is in a coma from 9-5 📉 Sitting = 1 cal/min  Standing = 1.5 cal/min Walking = 4 cal/min While you're hitting KPIs, your body's hitting rock bottom. Here's what my executive clients do:  📱 Phone rings? Walking meeting (instant 300 steps)  🚗</title>
+      <link>https://tiktok.com/@lazezfit/video/7523507765625638151</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/lazezfit/screenshot_osEuTAVCIBAfHQDRAoAgN2anUCF40vaDNqe9Km~tplv-tiktokx-origin.image.jpg" / &gt; Your metabolism is in a coma from 9-5 📉 Sitting = 1 cal/min  Standing = 1.5 cal/min Walking = 4 cal/min While you're hitting KPIs, your body's hitting rock bottom. Here's what my executive clients do:  📱 Phone rings? Walking meeting (instant 300 steps)  🚗</description>
+      <guid isPermaLink="false">https://tiktok.com/@lazezfit/video/7523507765625638151</guid>
+      <pubDate>Sat, 05 Jul 2025 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Your brain makes 35,000 decisions every day. By 7pm? It's DONE. Exhausted. Running on fumes. And that's exactly when you raid the fridge. Here's what's happening:  🧠 Every decision drains mental energy (what to wear, which email first, how to respond to y</title>
+      <link>https://tiktok.com/@lazezfit/video/7523944019320130834</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/conoro/tiktok-rss-flat/main/thumbnails/lazezfit/screenshot_osfkqN5AAABiAiw2wsBxK0InNEAUkaKkTihBBI~tplv-tiktokx-origin.image.jpg" / &gt; Your brain makes 35,000 decisions every day. By 7pm? It's DONE. Exhausted. Running on fumes. And that's exactly when you raid the fridge. Here's what's happening:  🧠 Every decision drains mental energy (what to wear, which email first, how to respond to y</description>
+      <guid isPermaLink="false">https://tiktok.com/@lazezfit/video/7523944019320130834</guid>
+      <pubDate>Sun, 06 Jul 2025 15:05:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
